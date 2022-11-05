@@ -1,7 +1,7 @@
 
 
 #EXTM3U
-#EXTINF:0 tvg-id="UniversalRealityHD.us" tvg-name="02 | UNIVERSAL REALITY UHD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png" group-title="CINE UHD ",02 | UNIVERSAL REALITY UHD
+#EXTINF:0 tvg-id="UniversalRealityHD.us" tvg-name="02 | UNIVERSAL REALITY UHD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png" group-title="CINE UHD 1*",02 | UNIVERSAL REALITY UHD
 
 http://magmas5.com:8000/malotv/gratis/150071
 #EXTINF:0  tvg-id="" tvg-name="03 | UNIVERSAL PREMIERE (MX) UHD" tvg-logo="" group-title="CINE UHD 1*",03 | UNIVERSAL PREMIERE (MX) UHD
@@ -22,5 +22,5 @@ http://magmas5.com:8000/malotv/gratis/150078
 http://magmas5.com:8000/malotv/gratis/150079
 #EXTINF:0 tvg-id="HBOPlusLatinAmerica.us" tvg-name="11 | HBO PLUS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE UHD 1*",11 | HBO PLUS UHD
 http://magmas5.com:8000/malotv/gratis/150080
-#EXTINF:0 tvg-id="HBOSignatureHDLatinAmerica.us" tvg-name="12 | HBO SIGNATURE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE UHD ",12 | HBO SIGNATURE UHD
+#EXTINF:0 tvg-id="HBOSignatureHDLatinAmerica.us" tvg-name="12 | HBO SIGNATURE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE UHD 1*" ,12 | HBO SIGNATURE UHD
 http://magmas5.com:8000/malotv/gratis/150081
