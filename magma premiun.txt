@@ -3,7 +3,7 @@
 #EXTM3U
 #EXTINF:0 tvg-id="UniversalRealityHD.us" tvg-name="02 | UNIVERSAL REALITY UHD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png" group-title="CINE UHD 1*",02 | UNIVERSAL REALITY UHD
 
-http://magmas5.com:8000/malotv/gratis/150071
+http://magmas5.com:8000/malotv/150071
 #EXTINF:0  tvg-id="" tvg-name="03 | UNIVERSAL PREMIERE (MX) UHD" tvg-logo="" group-title="CINE UHD 1*",03 | UNIVERSAL PREMIERE (MX) UHD
 http://magmas5.com:8000/malotv/gratis/150072
 #EXTINF:0 tvg-id="" tvg-name="04 | UNIVERSAL TV UHD" tvg-logo="" group-title="CINE UHD 1*",04 | UNIVERSAL TV UHD
